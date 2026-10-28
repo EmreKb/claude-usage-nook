@@ -1,0 +1,15 @@
+{
+  "originHash" : "93fe0629b66d403ffd3bef687d083b8c40d6f3c6ec1bf45f1cd544504d0f3bee",
+  "pins" : [
+    {
+      "identity" : "nook",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fatihsen-dev/nook",
+      "state" : {
+        "branch" : "main",
+        "revision" : "6f938ef7d5a560901dcdf0419b7ae448114e96ca"
+      }
+    }
+  ],
+  "version" : 3
+}
